@@ -1,0 +1,49 @@
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\NecessaryFiles\7za.exe
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\NecessaryFiles\JsonSceneGenerator.zip
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\UnityPackageGenerator.exe.config
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\UnityPackageGenerator.exe.manifest
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\UnityPackageGenerator.application
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\UnityPackageGenerator.exe
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\UnityPackageGenerator.pdb
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.AssemblyReference.cache
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.MainForm.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.Properties.Resources.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.CategoryUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.PropertyUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.SelectPropertyUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.VectorPropertyUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.TextPropertyUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.ComboPropertyUserControl.resources
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.GenerateResource.cache
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.exe.manifest
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.application
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.CopyComplete
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.exe
+C:\Users\MARTSIS\source\repos\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.pdb
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.AssemblyReference.cache
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.MainForm.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.Properties.Resources.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.CategoryUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.PropertyUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.SelectPropertyUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.VectorPropertyUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.TextPropertyUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\JsonCreator.UserControls.ComboPropertyUserControl.resources
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.GenerateResource.cache
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.csproj.CoreCompileInputs.cache
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.exe
+C:\Users\vasil\My Drive\BillyTheKid\Projects\Thesis\Programs\JsonCreator\JsonCreator\obj\Debug\UnityPackageGenerator.pdb
