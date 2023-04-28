@@ -1,2 +1,2 @@
 # Thesis
-My thesis on the International hellenic University, with title Dynamic Game Generation.
+My thesis on the International hellenic University, titled Dynamic Game Generation.
